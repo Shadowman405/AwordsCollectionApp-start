@@ -40,6 +40,7 @@ struct HeartBeatView: View {
     }
 }
 
+
 struct NewAchievmentView_Previews: PreviewProvider {
     static var previews: some View {
         HeartBeatView(width: 200, height: 200)
